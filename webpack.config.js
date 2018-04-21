@@ -37,7 +37,6 @@ module.exports = {
       }
     ]
   },
-  watch: true,
   mode: 'development',
   plugins: [
     new ExtractTextPlugin({
